@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<org.springframework-version>4.0.9.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.19</org.springframework-version>
 		<org.springframework-security-version>3.2.4.RELEASE</org.springframework-security-version>
 <!-- 		<egov-version>3.5.0</egov-version> -->
 	</properties>
